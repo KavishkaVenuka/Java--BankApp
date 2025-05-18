@@ -1,0 +1,13 @@
+# Java
+*.class
+*.jar
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Build
+out/
+bin/
+lib/
