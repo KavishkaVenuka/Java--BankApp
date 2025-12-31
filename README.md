@@ -45,15 +45,15 @@ A robust Java-based banking system demonstrating enterprise-level design pattern
 
 This project follows a layered architecture pattern:
 
-┌─────────────────────────────┐
-│ Presentation Layer │ ← Console UI / Main Class
-├─────────────────────────────┤
-│ Service Layer │ ← Business Logic
-├─────────────────────────────┤
-│ DAO Layer │ ← Data Access Objects
-├─────────────────────────────┤
-│ Database Layer (MySQL) │ ← Persistence
-└─────────────────────────────┘
+
+ Presentation Layer      ← Console UI / Main Class
+
+ Service Layer           ← Business Logic
+
+ DAO Layer               ← Data Access Objects
+
+ Database Layer (MySQL)  ← Persistence
+
 
 
 
